@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloNotifications</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_content">Content</string>
+
+    <string-array name="reply_choices">
+        <item>Awesome</item>
+        <item>Shiok!</item>
+        <item>Nom nom nom</item>
+    </string-array>
+
+    <string name="title_activity_reply">ReplyActivity</string>
+
+</resources>
